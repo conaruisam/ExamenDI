@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="UpperEssentialLookAndFeel">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Librerias necesarias/LOOK AND FEEL/Librerias LookAndFeel/UpperEssential/UpperEssentialLookAndFeel.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias necesarias/LOOK AND FEEL/Librerias LookAndFeel/Liquid/liquidlnf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias necesarias/LOOK AND FEEL/Librerias LookAndFeel/JTattooDemo/JTattooDemo.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias necesarias/LOOK AND FEEL/Librerias LookAndFeel/JGoodies/jgoodies-looks-2.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias necesarias/LOOK AND FEEL/Librerias LookAndFeel/JGoodies/jgoodies-common-1.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Librerias necesarias/LOOK AND FEEL/Librerias LookAndFeel/UpperEssential/UpperEssentialLookAndFeel.jar!/" />
+    </SOURCES>
+  </library>
+</component>

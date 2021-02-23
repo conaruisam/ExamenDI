@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<toc version="1.0">
+    <tocitem text="Explicacion aplicacion">
+        <tocitem text="1 - Introduccion" target="inicio"/>
+        <tocitem text="2 - Nuevo producto" target="nuevo"/>
+        <tocitem text="2 - Gestion de stock" target="gestion_stock"/>
+        <tocitem text="3 - Informe de productos" target="informe_productos"/>
+    </tocitem>
+    
+</toc>

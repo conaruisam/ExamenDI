@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="spring-jcl-5.3.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Librerias necesarias/spring-jcl-5.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias necesarias/jasperreports-javaflow-6.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias necesarias/jasperreports-chart-customizers-6.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias necesarias/spring-core-5.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias necesarias/jasperreports-annotation-processors-6.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias necesarias/com.lowagie.text-2.1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias necesarias/jasperreports-6.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias necesarias/jasperreports-custom-visualization-6.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias necesarias/commons-collections4-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias necesarias/jasperreports-6.16.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias necesarias/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias necesarias/jasperreports-metadata-6.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias necesarias/commons-collections4-4.4-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias necesarias/commons-digester-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias necesarias/joda-time-2.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias necesarias/spring-beans-5.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias necesarias/jasperreports-functions-6.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias necesarias/jasperreports-chart-themes-6.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias necesarias/net.tascalate.javaflow.api-2.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias necesarias/slf4j-api-1.8.0-beta4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias necesarias/slf4j.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../Librerias necesarias/commons-logging-1.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias necesarias/commons-collections4-4.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Librerias necesarias/commons-collections4-4.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias necesarias/commons-collections4-4.4-test-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,37 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Gestion de stock:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Gestion_de_stock_jar</output-path>
+    <root id="archive" name="Gestion de stock.jar">
+      <element id="module-output" name="Gestion de stock" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Librerias necesarias/SQL/mysql-connector-java-8.0.22/mysql-connector-java-8.0.22.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Librerias necesarias/javahelp-2.0.02.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Librerias LookAndFeel" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Librerias necesarias/LOOK AND FEEL/Librerias LookAndFeel/UpperEssential/UpperEssentialLookAndFeel.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Librerias necesarias/LOOK AND FEEL/Librerias LookAndFeel/Liquid/liquidlnf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Librerias necesarias/LOOK AND FEEL/Librerias LookAndFeel/JTattooDemo/JTattooDemo.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Librerias necesarias/LOOK AND FEEL/Librerias LookAndFeel/JGoodies/jgoodies-looks-2.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Librerias necesarias/LOOK AND FEEL/Librerias LookAndFeel/JGoodies/jgoodies-common-1.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Librerias necesarias/spring-jcl-5.3.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Librerias necesarias/jasperreports-javaflow-6.15.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Librerias necesarias/jasperreports-chart-customizers-6.15.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Librerias necesarias/spring-core-5.3.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Librerias necesarias/jasperreports-annotation-processors-6.15.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Librerias necesarias/com.lowagie.text-2.1.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Librerias necesarias/jasperreports-6.15.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Librerias necesarias/jasperreports-custom-visualization-6.15.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Librerias necesarias/commons-collections4-4.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Librerias necesarias/jasperreports-6.16.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Librerias necesarias/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Librerias necesarias/jasperreports-metadata-6.15.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Librerias necesarias/commons-collections4-4.4-tests.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Librerias necesarias/commons-digester-2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Librerias necesarias/joda-time-2.9.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Librerias necesarias/spring-beans-5.3.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Librerias necesarias/jasperreports-functions-6.15.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Librerias necesarias/jasperreports-chart-themes-6.15.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Librerias necesarias/net.tascalate.javaflow.api-2.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Librerias necesarias/slf4j-api-1.8.0-beta4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Librerias necesarias/slf4j.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
